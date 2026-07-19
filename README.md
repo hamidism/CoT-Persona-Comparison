@@ -1,3 +1,6 @@
+<div align="center">
+<img src="./banner.png" width="140" height="140" style="border-radius:50%; object-fit:cover;" alt="NeuroFive Solutions"/>
+
 # Chain-of-Thought + Persona Prompting — Before/After Comparison
 
 A small experiment tool that proves out a core prompt engineering technique: combining **Chain-of-Thought (CoT)** instructions with **persona/role prompting** and comparing the result against a plain, direct prompt — for the same reasoning problem, run through the same model.
